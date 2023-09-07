@@ -1,3 +1,8 @@
+% tarea semana 2
+% puntos extras
+% Ricardo Rivas González
+% Open Class José Eduardo Valdéz Rodriguez
+
 cuarto('num_1', 5).
 cuarto('num_2', 2).
 cuarto('num_3', 2).
